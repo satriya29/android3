@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Demo Komponen</string>
+    <string-array name="spinner_country">
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Inggris</item>
+        <item>Arab</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>USA</item>
+    </string-array>
+</resources>
